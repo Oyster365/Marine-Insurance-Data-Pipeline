@@ -20,6 +20,11 @@ Other -->
 - **genscript.py** is the script I used to generate the mock data for this project
 - **script.sql** is the script I used to create tables, bring in data, and query the data before being sent to Power BI
 
+## Database Relationships
+This is the schema I created when developing the data for the database. It shows the relationship between customers, policies, and claims.
+
+![Schema Diagram](Images/Schema%20Diagram.PNG)
+
 
 ## Dashboard
 This is a preview of the dynamic Power BI dashboard created from the data pipeline. It shows insights regarding profitability, loss variables, and trends across various regions.
